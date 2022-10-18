@@ -1,0 +1,19 @@
+{
+    "name": "BIS-11: Barratt Impulsiveness Scale Survey",
+    "template":"survey",
+    "exp_id": "bis11-survey",
+    "url": "https://github.com/expfactory-experiments/bis11-survey",
+    "cognitive_atlas_task_id": "trm_55a6a8e81b7f4",
+    "contributors": [
+             "Zeynep Enkavi",
+             "Ian Eisenberg",
+             "Patrick Bissett",
+             "Vanessa Sochat",
+             "Russell Poldrack"
+            ], 
+    "time":3,
+    "reference": ["http://www.impulsivity.org/measurement/bis11"],  
+    "description": "Experiment Factory survey",
+    "instructions": "Please answer the following questions to the best of your ability"
+  
+}
